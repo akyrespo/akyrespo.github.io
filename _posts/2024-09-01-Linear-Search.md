@@ -1,10 +1,10 @@
 ---
 title: "Linear Search"
-date: 9-1-24 7:32:AM
+date: 2024-09-01 UTC +8
 categories: [Linear Search]
 tags: [Linear Search]
 ---
 
-# Linear Search
+# Linear Search 
 
-Getting Started
+Getting started.
